@@ -1,0 +1,14 @@
+{
+  "name": "buildfeed",
+  "version": "1.0.0",
+  "description": "Ask a startup, product, or design question. Get the take from people who have done the work, not a mashup of the internet.",
+  "author": {
+    "name": "BuildFeed"
+  },
+  "homepage": "https://buildfeed.tech",
+  "repository": "https://github.com/JakeTaylorDesign/buildfeed-plugin",
+  "license": "MIT",
+  "keywords": ["buildfeed", "buildfeed mcp", "buildfeed.tech"],
+  "category": "research",
+  "logo": "logo.png"
+}

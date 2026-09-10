@@ -1,0 +1,16 @@
+{
+  "name": "buildfeed",
+  "owner": {
+    "name": "BuildFeed"
+  },
+  "metadata": {
+    "description": "Ask a startup, product, or design question. Get the take from people who have done the work, not a mashup of the internet."
+  },
+  "plugins": [
+    {
+      "name": "buildfeed",
+      "source": ".",
+      "description": "Ask a startup, product, or design question. Get the take from people who have done the work, not a mashup of the internet."
+    }
+  ]
+}

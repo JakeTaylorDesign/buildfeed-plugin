@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "buildfeed": {
+      "type": "http",
+      "url": "https://buildfeed.tech/api/mcp",
+      "note": "Public read-only MCP over the channels BuildFeed already watches. No key required. Optional Authorization: Bearer bf_live_… only after a 429, never shipped in this plugin."
+    }
+  }
+}
