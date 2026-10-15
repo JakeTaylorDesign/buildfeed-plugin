@@ -1,14 +1,28 @@
 {
   "name": "buildfeed",
   "version": "1.0.0",
-  "description": "Ask a startup, product, or design question. Get the take from people who have done the work, not a mashup of the internet.",
+  "description": "Ask startup, product, or design questions. Get answers from people who have actually done the work—not a mashup of the internet.",
   "author": {
-    "name": "BuildFeed"
+    "name": "BuildFeed",
+    "url": "https://buildfeed.tech"
   },
   "homepage": "https://buildfeed.tech",
   "repository": "https://github.com/JakeTaylorDesign/buildfeed-plugin",
   "license": "MIT",
-  "keywords": ["buildfeed", "buildfeed mcp", "buildfeed.tech"],
+  "keywords": [
+    "buildfeed",
+    "startup",
+    "product",
+    "design",
+    "transcripts",
+    "youtube",
+    "mcp",
+    "knowledge",
+    "research",
+    "founders",
+    "vc",
+    "product-management"
+  ],
   "category": "research",
   "logo": "logo.png"
 }
